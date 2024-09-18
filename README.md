@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me:
 - 🎓 **Master's Student** in **Systems, Control, and Mechatronics** at [Chalmers University of Technology](https://www.chalmers.se/)
-- 🔍 Focused on **Advanced Driver Assistance Systems (ADAS)**, **Sensor Fusion**, **Autonomous Driving (AD)**, **Active Safety**, and **Perception/Navigation**.
-- 💡 Exploring topics like **generalization, convergence, and stability** in **machine learning** training processes.
-- 🔧 Experienced in **MATLAB**, **Python**, and **ROS** with a passion for **robotics and autonomous systems**.
-- 🌍 Interested in collaborating on open-source projects related to **control systems** and **robotics**.
+- 🔍 Focused on **Machine Learning**, **ADAS/AD**, **Active Safety**, **Sensor Fusion**, **Perception/Navigation of Autonomous Systems**.
+- 💡 Exploring topics like **ROS**, **Decision-making for Autonomous Systems**, **CNN**, **Active Safety System Design for Automotives**.
+- 🔧 Experienced in **MATLAB**, **Python** (PyTorch, Numpy, Matplotlib, Pandas), **C**, **Simulink**, **Solidworks**, **Keyshot**, **ANSYS Mechanical**.
+- 🌍 Interested in collaborating on open-source projects related to **Machine Learning** and **ADAS/AD**.
 
 ---
 
