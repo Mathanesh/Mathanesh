@@ -28,12 +28,13 @@
 
 ---
 
+<!-- 
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mathanesh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathanesh&layout=compact&theme=radical" alt="All Languages" />
 </p>
-
+-->
 ---
 
 ### 📫 How to Reach Me:
