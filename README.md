@@ -42,8 +42,9 @@
 - GitHub: [Your GitHub](https://github.com/Mathanesh)
 
 ---
-
+<!--
 ### 🌱 Current Projects:
 - 📊 Working on a project: **Training a Deep NN for Object Detection and Classification** for **Autonomous Vehicles**.
 - 🔭 Working on a project: **Driver behavior and active safety systems (FCW and AEB) in critical
 rear-end situations**.
+-->
