@@ -45,18 +45,19 @@
 -->
 </p>
 
-
 ---
 
-<!-- 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathanesh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathanesh&layout=compact&theme=radical" alt="All Languages" />
+  <a href="https://github.com/Mathanesh">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mathanesh&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Mathanesh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathanesh&layout=compact&theme=radical&cache_seconds=3600" alt="All Languages" />
+  </a>
 </p>
 
 ---
--->
 
 ### 📫 How to Reach Me:
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mathanesh-vellingiri-ramasamy/)
