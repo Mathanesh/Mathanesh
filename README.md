@@ -1,12 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Mathanesh</h1>
-
-<p align="center">
-  <a href="https://github.com/Mathanesh/"><img src="https://img.shields.io/github/followers/Mathanesh?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/mathanesh-vellingiri-ramasamy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-</p>
-
----
-
 <h1 align="center">👋 Hi, I'm Mathanesh!</h1>
 
 <p align="center">
