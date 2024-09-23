@@ -18,8 +18,8 @@
 
 ### 🚀 Skills and Tools:
 <p align="left">
-  [<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" alt="MATLAB" />](https://www.mathworks.com/products/matlab.html)
-  [<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />](https://www.python.org/)
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" alt="MATLAB" />(https://www.mathworks.com/products/matlab.html)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />(https://www.python.org/)
   [<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />](https://numpy.org/)
   [<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />](https://pytorch.org/)
   [<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white" alt="Matplotlib" />](https://matplotlib.org/)
