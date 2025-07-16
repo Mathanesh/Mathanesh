@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 📈 **Master Thesis Intern** at **Volvo Group Trucks Technology - Göteborg, Sverige**
+- 📈 **Master Thesis Intern** at **Volvo Group Trucks Technology - Gothenburg, Sweden**
 - 🎓 **Master's Student** in **Systems, Control, and Mechatronics** at [Chalmers University of Technology](https://www.chalmers.se/)
 - 🔍 Focused on **Safety Critical System Development**, **ADAS/AD function development**, **Machine Learning**, **Active Safety**, **Sensor Fusion**, **Perception/Navigation of Autonomous Systems**
 - 💡 Exploring new graduate opportunities related to **Vehicle Motion Control, Vehicle Modeling, ADAS/AD development, Model-based development, Automotive Software Development, HIL/SIL/VIL test development, verification and validation**
