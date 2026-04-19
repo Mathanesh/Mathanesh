@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 📈 **Vehicle System Simulation Intern** at **Volvo Cars** - Gothenburg, Sweden.
 - 🎓 **Former Master Thesis Worker** at **Volvo GTT**, with a master's in **Systems, Control, and Mechatronics** from [Chalmers University of Technology](https://www.chalmers.se/), Sweden.
-- 💡 Exploring opportunities related to **Vehicle Motion Control, System Development, ADAS/AD, Model-based development, Automotive Software Development, HIL/SIL/VIL test development, Verification and Validation (V&V).**
+- 💡 Exploring opportunities related to **Vehicle Motion Control, Systems Engineering, Model-based development, Embedded SW Development, System Verification, and HIL/SIL/VIL testing.**
 - 🔍 Focused on **Vehicle Dynamics and Motion Control**, **Active Safety Systems**, **Sensor Fusion and Signal Processing**, **ADAS/AD**, **Machine Learning**, and **Perception/Navigation of Autonomous Systems.**
 - 🔧 Proficient in **MATLAB**, **Simulink**, **Simscape**, **Modelica**, **Git**, **Python** (PyTorch, NumPy, Matplotlib, Pandas), **C**, **C++**, **JIRA**, **Notion**, **Docker**, **ROS**, **SolidWorks**, **Keyshot**, **ANSYS Mechanical.**
 - 🌍 Passionate about collaborating on **open-source projects** related to **Automotive Software Development (including ADAS/AD)**, **Robotics** and **Machine Learning.** 
